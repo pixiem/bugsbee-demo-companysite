@@ -26,7 +26,9 @@ const Layout = ({
     <>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Company, Agency, Organization Website Demo | BUGS BEE </title>
+        <title>Company, Agency, Organization Website Demo || Bugs Bee </title>
+        <meta property="og:image"  content="https://i.ibb.co/sKnMFMR/Blue-Yellow-Futuristic-Virtual-Technology-Blog-Banner.png" />
+        
       </Head>
       <Preloader className={preloaderClass} loading={loading} bg={preloader} />
       <main

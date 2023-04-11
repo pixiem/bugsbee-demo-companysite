@@ -35,14 +35,15 @@ class MyDocument extends Document {
             id="fav-icon"
             type="image/x-icon"
           />
-          {/* <link rel="icon" href="favicon.ico" /> */}
+          <link rel="icon" href="favicon.ico" />
           <meta
             name="description"
             content="Bugs Bee themes multipurpose and powerful Digital Services Agency Website. The template is highly suitable template for companies that offer web design, web development, internet services, digital marketing, SEO services and all other internet marketing and services related agencies and businesses."
           />
-          {/* <meta httpEquiv="X-UA-Compatible" content="IE=edge" /> */}
+          <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+          <meta property="og:image"  content="https://i.ibb.co/sKnMFMR/Blue-Yellow-Futuristic-Virtual-Technology-Blog-Banner.png" />
 
-          {/* <link rel="preconnect" href="https://fonts.googleapis.com" />
+          <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link
             rel="preconnect"
             href="https://fonts.gstatic.com"
@@ -67,7 +68,7 @@ class MyDocument extends Document {
           <link
             href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Shadows+Into+Light&display=swap"
             rel="stylesheet"
-          /> */}
+          />
         </Head>
         <body>
           <Main />
