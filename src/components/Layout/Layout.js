@@ -26,7 +26,7 @@ const Layout = ({
     <>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Bugs Bee - DIgital Agency Website Template | {pageTitle}</title>
+        <title>Company, Agency, Organization Website Demo | BUGS BEE </title>
       </Head>
       <Preloader className={preloaderClass} loading={loading} bg={preloader} />
       <main
