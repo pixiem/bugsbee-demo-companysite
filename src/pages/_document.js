@@ -41,7 +41,7 @@ class MyDocument extends Document {
             content="Bugs Bee themes multipurpose and powerful Digital Services Agency Website. The template is highly suitable template for companies that offer web design, web development, internet services, digital marketing, SEO services and all other internet marketing and services related agencies and businesses."
           />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-          <meta property="og:image"  content="https://i.ibb.co/sKnMFMR/Blue-Yellow-Futuristic-Virtual-Technology-Blog-Banner.png" />
+          <meta property="og:image"  content="https://imgtr.ee/images/2023/04/12/nsaJD.png" />
 
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link
